@@ -1,5 +1,7 @@
 # Time-Off Microservice — ExampleHR
 
+**GitHub:** https://github.com/onepoordeveloper/exampleHR
+
 A NestJS + SQLite microservice that manages the full time-off request lifecycle and keeps leave balances in sync with an external HCM (Workday / SAP).
 
 ## Quick Start
